@@ -1,5 +1,7 @@
 {
   "name": "native-color-picker",
+  "description": "Color Picker",
+  "author": "Samuel Wolnerman, Ben Gilman",
   "version": "1.0.0",
   "license": "MIT",
   "main": "index.js",
@@ -21,7 +23,8 @@
         "name": "NativeColorPicker",
         "manifest": "./src/components/NativeColorPicker/manifest.json"
       }
-    ]
+    ],
+    "logo": "./logo.png"
   },
   "devDependencies": {
     "@adalo/cli": "0.0.38",
