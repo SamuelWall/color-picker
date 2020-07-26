@@ -2,7 +2,7 @@
   "name": "native-color-picker",
   "description": "Color Picker",
   "author": "Samuel Wolnerman, Ben Gilman",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
