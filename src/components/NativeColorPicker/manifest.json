@@ -10,7 +10,7 @@
       "displayName": "Size",
       "type": "number",
       "default": 200,
-      "control": {"type":"slider","max":300,"min":50}
+      "control": {"type":"slider","max":300,"min":0}
     },
     {
       "name": "colorAction",
