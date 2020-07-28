@@ -28,7 +28,7 @@ class NativeColorPicker extends Component{
                    ref={view => {this.colorPicker = view;}}
                    oldColor={this.state.oldColor}
                    onColorChange={this.changeColor}
-                   style={{width: this.props.size, height: this.props.size}}/>
+                   style={{width: this.props._width, height: this.props._width}}/>
            </View>
        );
    }

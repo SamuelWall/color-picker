@@ -1,8 +1,8 @@
 {
   "name": "native-color-picker",
-  "description": "Color Picker",
+  "description": "Select a color from a color wheel and save the color code as magic text.",
   "author": "Samuel Wolnerman, Ben Gilman",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,8 @@
         "manifest": "./src/components/NativeColorPicker/manifest.json"
       }
     ],
-    "logo": "./logo.png"
+    "logo": "./logo.png",
+    "icon": "./thumbnail.png"
   },
   "devDependencies": {
     "@adalo/cli": "0.0.38",

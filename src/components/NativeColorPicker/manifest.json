@@ -3,6 +3,7 @@
   "defaultWidth": 200,
   "defaultHeight": 200,
   "components": "./index.js",
+  "resizeY": true,
   "props": [
     {
       "name": "size",
