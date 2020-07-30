@@ -7,13 +7,6 @@
   "resizeY": true,
   "props": [
     {
-      "name": "size",
-      "displayName": "Size",
-      "type": "number",
-      "default": 200,
-      "control": {"type":"slider","max":300,"min":0}
-    },
-    {
       "name": "colorAction",
       "displayName": "Action on Choose Color",
       "type": "action",
