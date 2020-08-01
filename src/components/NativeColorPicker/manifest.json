@@ -1,5 +1,5 @@
 {
-  "displayName": "Native Color Picker",
+  "displayName": "Color Picker",
   "defaultWidth": 200,
   "defaultHeight": 200,
   "components": "./index.js",
