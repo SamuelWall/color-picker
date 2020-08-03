@@ -30,7 +30,8 @@ class NativeColorPicker extends Component{
                    oldColor={this.state.oldColor}
                    onColorChange={this.changeColor}
                    style={{width: this.props._width, height: this.props._width}}
-                   isMobile={ "w" }/>
+                   isMobile={ "i" }
+                   />
            </View>
        );
    }
