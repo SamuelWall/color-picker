@@ -1,0 +1,1 @@
+{"NativeColorPicker":{"displayName":"Color Picker","defaultWidth":200,"defaultHeight":200,"components":"./index.js","icon":"./logo.png","resizeY":true,"props":[{"name":"colorAction","displayName":"Action on Choose Color","type":"action","arguments":[{"type":"text","displayName":"Color Value"}]}],"name":"NativeColorPicker"}}
